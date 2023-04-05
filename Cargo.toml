@@ -1,5 +1,5 @@
 [package]
-name = "hex"
+name = "hex_"
 version = "0.1.0"
 authors = ["0xrishabh"]
 license = "MIT OR Apache-2.0"
