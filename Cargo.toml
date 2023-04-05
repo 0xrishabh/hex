@@ -1,0 +1,11 @@
+[package]
+name = "hex"
+version = "0.1.0"
+authors = ["0xrishabh"]
+license = "MIT OR Apache-2.0"
+description = "A tool to convert in and out of hex"
+readme = "README.md"
+homepage = "https://github.com/0xrishabh/hex"
+repository = "https://github.com/0xrishabh/hex"
+keywords = ["cli", "encode", "decode", "hex"]
+categories = ["command-line-utilities"]
